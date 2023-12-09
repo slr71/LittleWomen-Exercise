@@ -1,5 +1,9 @@
 # Little Women Exercise
 
+<p align="center">
+  <img src='https://static01.nyt.com/images/2020/01/03/books/review/24littlewomen1/24littlewomen1-videoSixteenByNineJumbo1600-v2.jpg' width='500'>
+</p>
+
 Hello folks! If you got here that means you have survived the December 9th-10th Carpentries workshop at the University of Arizona!
 
 Learning Shell, Python and Git can be extremely confusing, and quite overwhelming, therefore be proud of yourself!
@@ -18,9 +22,9 @@ In this repository, you'll find the following structure:
 .
 ├── README.md                   <- This file
 ├── secret-1.zip                <- Compressed file #1
-└── secret-2.zip                <- Compressed file #1
-
+└── secret-2.zip                <- Compressed file #2
 ```
+Each of the `zip` files should be decompressed in order to finish the exercise 🙂.
 
 ## Instructions
 
