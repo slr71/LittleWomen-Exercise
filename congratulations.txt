@@ -1,0 +1,17 @@
+Congratulations on getting through the exercise!
+
+We would like to compliment and thank you on sticking with us until the end :).
+
+It was a tough weekend! A lot of material was covered: navigation and scripting through Bash, introduction to Python and even git and GitHub. 
+
+We hope that you learned a lot over the past couple of days -- it is through the efforts that you put that we learn and advance science. 
+
+Contact us and let us know if you have any inquiries or follow ups, we are here to help.
+
+Thank you.
+
+---
+
+We apologize this isn't a spectacular ending to the exercise, we hope the following video can help lift spirits:
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ 
